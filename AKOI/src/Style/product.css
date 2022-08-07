@@ -1,0 +1,22 @@
+#img {
+	width: 120px;
+	justify-content: center;
+	margin-left: -20px;
+}
+
+.container{
+  
+	display: grid;
+	width:70%;
+	border: 0px solid black;
+	grid-template-columns: 30% 30% 30%;
+	gap: 100px;
+
+}
+
+
+.h-full{
+	color:black;
+}
+
+
